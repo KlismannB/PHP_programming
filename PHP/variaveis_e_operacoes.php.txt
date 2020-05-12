@@ -1,0 +1,28 @@
+<?php 
+
+$mensagem = 'Hello World!';
+$Mensagem = 'Ola mundo!';
+
+echo $Mensagem;
+echo $mensagem;
+
+$A = 2;
+$B = 3;
+
+$SOMA = $A + $B;
+echo $SOMA;
+
+$SUBTRACAO = $A - $B;
+echo $SUBTRACAO;
+
+$MULTIPLICACAO = $A * $B;
+echo $MULTIPLICACAO;
+
+$DIVISAO = $A / $B;
+echo $DIVISAO;
+
+$EXPONENCIACAO = $A ** $B
+echo $EXPONENCIACAO;
+
+$MODULO = $B % $A;
+echo $MODULO;
